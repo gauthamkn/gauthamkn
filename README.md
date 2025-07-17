@@ -22,9 +22,7 @@ const gautham = {
 };
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
+
 
 ## 🛠️ Tech Arsenal
 
