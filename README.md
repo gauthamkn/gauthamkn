@@ -107,19 +107,7 @@ graph TD
 
 </div>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ## 🏆 Achievements & Experience
 
@@ -164,13 +152,7 @@ graph TD
 
 </div>
 
-## 📈 Contribution Graph
 
-<div align="center">
-  
-[![Gautham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/YourGitHubUsername)
-
-</div>
 
 ## 💡 Fun Facts & Quotes
 
@@ -190,7 +172,7 @@ graph TD
   
 ### 🌟 "Building the future, one commit at a time" 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/YourGitHubUsername)
 
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
