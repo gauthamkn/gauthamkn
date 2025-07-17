@@ -26,6 +26,44 @@ const gautham = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🎯 Current Focus & Learning
+
+<div align="center">
+
+  
+
+```mermaid
+
+graph TD
+
+    A[🎯 Current Focus] --> B[LLM Integration]
+
+    A --> C[Full-Stack Development]
+
+    A --> D[AI/ML Applications]
+
+    
+
+    B --> E[Smart Notes Generator]
+
+    B --> F[Emotionally Intelligent Chatbot]
+
+    
+
+    C --> G[Next.js & React]
+
+    C --> H[RESTful APIs]
+
+    
+
+    D --> I[SVM Models]
+
+    D --> J[Data Analytics]
+
+```
+
+</div>
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
