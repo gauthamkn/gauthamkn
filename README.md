@@ -1,10 +1,13 @@
 # Hi there, I'm Gautham Nambiar! 👋
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Smart+Solutions+with+LLMs;Passionate+about+Education+%26+Innovation)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 🚀 About Me
 
@@ -73,14 +76,7 @@ graph TD
 | 🏥 **Disease Prediction ML** | ML models with 90%+ accuracy | Python, SVM, scikit-learn |
 | 🚗 **WiFi Controlled Car** | IoT project with real-time control | Arduino, ESP8266, HTML5 |
 
-## 🎯 Current Focus & Learning
 
-- 🔬 Building an **LLM-Powered Smart Notes Generator** from lecture transcripts
-- 🧠 Working on an **Emotionally Intelligent Chatbot using LLMs**
-- 👨‍🏫 Conducting workshops on **ML, GitHub & LinkedIn Profiles**
-- 🌱 Learning **Advanced React & Next.js**
-- 🚀 Exploring **Prompt Engineering for LLMs**
-- ☁️ Getting hands-on with **Docker & AWS Deployment**
 
 ## 🤝 Let's Connect!
 
